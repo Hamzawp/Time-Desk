@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body{
+    background-image: url(background.jpg);
+    background-size: 100vw 100vh;
+}
+/* Navbar starts here */
+.navbar{
+    display: flex;
+    background-color: #03192d26;
+    color: whitesmoke;
+   align-items: center;
+    height: 80px;
+    justify-content: center;
+}
+.heading-logo{
+    display: flex;
+    margin-left: 2.5%;
+}
+.heading-logo h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 8px;
+    margin-top: 7%;
+}
+.navtabs{
+    display: flex;
+    margin-left: 60vw;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.navtabs a{
+    font-size: 1.4rem;
+   margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.navbtn{
+    border-radius: 2px; 
+}
+/* Navbar ends here */
+.box{
+    background-color: #fff;
+    width: 35vw;
+    height: 55vh;
+    margin-left: 32vw;
+    margin-top: 20vh;
+    box-shadow: -7px 10px 20px -8px rgba(0,0,0,0.75);  
+}
+.year{
+    margin-left: 2.5vw;
+    margin-top: 1vh;
+    width: 30vw;
+    height: 7vh;
+    background-color: #00538e;
+    color: white;
+    position: absolute;
+    box-shadow: 0px 7px 20px -10px rgba(0,0,0,0.75);
+}
+.year h3{
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 6px;
+}
+.yearalpha{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    margin: 41px 40px;
+    background-color: #00538e;
+    width: 170px;
+    height: 80px;
+    border-radius: 5px;
+    box-shadow: 0px 7px 20px -10px rgba(0,0,0,0.75);
+}
+.container h3{
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+#c1{
+    margin-left: 5vw;
+    margin-top: 15vh;
+}
+#c2{
+    margin-left: 5px;
+    margin-top: 15vh;
+}
+#c3{
+    margin-left: 5vw;
+    margin-top: 0px;
+}
+#c4{
+    margin-left: 5px;
+    margin-top: 0px;
+}
