@@ -79,10 +79,10 @@ search.addEventListener("input",function(){
   Array.from(noteCards).forEach(function(element){
     let cardTxt = element.getElementsByTagName("h5")[0].innerText;
     if(cardTxt.includes(inputVal)){
-      element.style.display="none";
+      element.style.display="block";
     }
     else{
-      element.style.display="block";
+      element.style.display="none";
     }
   });
 });
