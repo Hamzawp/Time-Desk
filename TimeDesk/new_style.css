@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: whitesmoke;
+}
+.outermost{
+    background: rgb(69,78,160);
+    background: linear-gradient(90deg, rgba(69,78,160,1) 36%, rgba(3, 184, 220, 0.902) 100%);
+    height: 76vh;
+    margin: 3vh 20vh;
+    display: flex;
+    border-radius: 5px;
+    margin-top: 5vh;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.form{
+    width: 55vw;
+    /* height: 60vh; */
+    background-color: rgb(255, 255, 255);
+    margin: 10vh 5vw;
+    /* border-top-left-radius: 200px;
+    border-bottom-left-radius: 200px;  */
+    border-top-left-radius: 85px 50%;
+    border-bottom-left-radius: 85px 50%;
+}
+.information{
+    padding: 25vh 2vw;
+    text-align: center;
+    margin-left: 2vw;
+}
+#welcometxt{
+    font-size: 2.5rem;
+    color: white;
+}
+#text{
+    margin-top: 4vh;
+    color: white;
+    font-size: 1.5rem;
+}
+#btn1{
+    margin-top: 12vh;
+    /* background-color: #454ea0; */
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 1vh 2vw;
+    border-radius: 20px;
+    font-size: 1.5rem;
+}
+#new-student-form{
+    display: grid;
+    grid-template-columns: 40% 40%;
+  
+    align-items: center;
+    padding-left: 12vw;
+    padding-top: 10vh;
+    
+}
+.form-box{
+    align-items: center;
+    margin-top: 5vh;
+}
+.form-box h3{
+    font-family: 'Karla', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.form-box input{
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid grey;
+    margin-top: 5px;
+    outline: none;
+}
+#entry{
+    margin-left: 5vw;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(90deg,rgba(3, 184, 220, 0.902) 36%,   rgba(69,78,160,1)100%);
+    color: white;
+    padding: 5px;
+    width: 90px;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    margin-top: 4vh;
+    margin-left: 7vw;
+  
+}
+#entry:hover{
+    cursor: pointer;
+    transition: 5s;
+    background: linear-gradient(90deg, rgba(69,78,160,1) 36%, rgba(3, 184, 220, 0.902) 100%);
+    
+}
+.submit-form-box{
+    margin-left: 15vw;
+    align-items: center;
+    text-align: center;
+}
+

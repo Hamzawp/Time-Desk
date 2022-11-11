@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-shadow: none;
+}
+body{
+   background-color: #454ea4;
+    /*background-size: 100vw 100vh;*/
+    overflow-y:unset;
+}
+.navbar{
+    display: flex;
+    background-color: #03192d26;
+    color: whitesmoke;
+   align-items: center;
+    
+    height: 80px;
+    
+}
+.heading-logo h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 8px;
+   
+}
+.heading-logo{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+.navtabs{
+    align-items: center;
+    text-align: right;
+    margin-left: 60vw;
+}
+
+.navtabs a{
+    font-size: 1.4rem;
+   margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.navbtn{
+    border-radius: 2px;
+    
+}
+.navbtn:hover{
+    opacity: 0.9;
+}
+.section{
+    display: flex;
+    align-items: center;
+   
+}
+.image{
+    align-items: center;
+}
+
+.attendance-sheet{
+
+
+    background-repeat:no-repeat;
+ background-position: center;
+
+ background-size: 25vw 45vh;
+
+    align-items: center;
+    width: 80vw;
+    margin: 6vh 11vw 2vh 11vw;
+    
+}
+
+.as-heading{
+    margin-left: 0;
+    background-color: #454ea5;
+}
+
+th{
+    border: none;
+    color: #454ea4;
+    font-size: 1.3rem;
+    font-family: 'Karla', sans-serif;
+  
+}
+td{
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: 550;
+    border: none;
+}
+thead{
+    background-color: rgb(227, 225, 225);
+}
+tbody{
+    border: 1px solid rgb(227, 225, 225);
+    overflow: scroll;
+}
+tr{
+    border: 1px solid rgb(214, 211, 211);
+}
+.pres-btn{
+    padding: 10px;
+    width: 7vw;
+    background-color: rgb(120, 237, 118);
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    
+}
+.abse-btn{
+    padding: 10px;
+    margin-left:15px ;
+    width: 7vw;
+    background-color: rgb(237, 138, 118);
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+}
+#special{
+    width: 20vw;
+}
+
+
+.pres-btn, .abse-btn:hover{
+    cursor: pointer;
+}
+.pres-btn:hover{
+    background-color:rgb(93, 235, 91) ;
+}
+.abse-btn:hover{
+    background-color:rgb(230, 117, 94) ;
+}
+.tickbefore{
+    display: none;
+}
+.tickafter{
+    display: block;
+}
+
+
+
+
+
