@@ -29,8 +29,22 @@ Duration: 2 months
 <br/>
 
 ## Block Diagrams
+<div align="center">
+  <h3># LOGIN INTERFACE</h3>
+  <img src="block1.png"/>
+</div>
+<br/>
+<div align="center">
+  <h3># ADMIN INTERFACE</h3>
+  <img src="block3.png"/>
+</div>
+<br/>
+<div align="center">
+  <h3># TEACHER INTERFACE</h3>
+  <img src="block2.png"/>
+</div>
+<br/>
 
-<img src=""/>
 ## Snapshots
 
 
