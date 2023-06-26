@@ -54,6 +54,7 @@ Duration: 2 months
   <br/>
   <img src="login2.png"/><br/>
   <i>Fig: Login 1.2</i>
+  <br/>
 </div>
 <br/><br/>
 
@@ -67,13 +68,24 @@ Duration: 2 months
 
 # Teacher Page
 <div align="center">
-  <img src="login1.png"/><br/>
-  <i>Fig: Login 1.1</i>
+  <img src="teach1.png"/><br/>
+  <i>Fig: Teacher 1.1</i>
   <br/>
   <br/>
-  <img src="login2.png"/><br/>
-  <i>Fig: Login 1.2</i>
+  <img src="teach2.png"/><br/>
+  <i>Fig: Teacher 1.2</i>
+  <br/>
+  <br/>
+  <img src="teach3.png"/><br/>
+  <i>Fig: Teacher 1.3</i>
+  <br/><br/>
+  <img src="teach4.png"/><br/>
+  <i>Fig: Teacher 1.4</i>
+  <br/>
 </div>
+
+
+
 
 
 
