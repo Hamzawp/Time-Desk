@@ -46,5 +46,26 @@ Duration: 2 months
 <br/>
 
 ## Snapshots
+# Login Page
+<div align="center">
+  <img src="login1.png"/><br/>
+  <i>Fig: Login 1.1</i>
+  <br/>
+  <br/>
+  <img src="login2.png"/><br/>
+  <i>Fig: Login 1.2</i>
+</div>
+<br/><br/>
+
+# Admin Page
+<div align="center">
+  <img src="login1.png"/><br/>
+  <i>Fig: Admin 1.1</i>
+  <br/>
+  <br/>
+  <img src="login2.png"/><br/>
+  <i>Fig: Admin 1.2</i>
+</div>
+
 
 
