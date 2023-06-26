@@ -59,12 +59,20 @@ Duration: 2 months
 
 # Admin Page
 <div align="center">
-  <img src="login1.png"/><br/>
+  <img src="admin1.png"/><br/>
   <i>Fig: Admin 1.1</i>
+  <br/>
+</div>
+<br/><br/>
+
+# Teacher Page
+<div align="center">
+  <img src="login1.png"/><br/>
+  <i>Fig: Login 1.1</i>
   <br/>
   <br/>
   <img src="login2.png"/><br/>
-  <i>Fig: Admin 1.2</i>
+  <i>Fig: Login 1.2</i>
 </div>
 
 
